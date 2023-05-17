@@ -1,0 +1,25 @@
+
+@font-face {
+    font-family: 'Wix Madefor Display';
+    src: url('../fonts/WixMadeforDisplay-Regular.eot');
+    src: url('../fonts/WixMadeforDisplay-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/WixMadeforDisplay-Regular.woff2') format('woff2'),
+        url('../fonts/WixMadeforDisplay-Regular.woff') format('woff'),
+        url('../fonts/WixMadeforDisplay-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Wix Madefor Display ExtraBold';
+    src: url('../fonts/WixMadeforDisplay-ExtraBold.eot');
+    src: url('../fonts/WixMadeforDisplay-ExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/WixMadeforDisplay-ExtraBold.woff2') format('woff2'),
+        url('../fonts/WixMadeforDisplay-ExtraBold.woff') format('woff'),
+        url('../fonts/WixMadeforDisplay-ExtraBold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
